@@ -3,7 +3,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.1-4FC08D?style=for-the-badge\&logo=vue.js)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4-6DB33F?style=for-the-badge\&logo=spring-boot)
 ![Google OR-Tools](https://img.shields.io/badge/Google_OR--Tools-Optimization-4285F4?style=for-the-badge\&logo=google)
-![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge\&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?style=for-the-badge\&logo=typescript)
 
 **Planify** is a full-stack **Intelligent Timetabling Optimization System** designed for higher education institutions.
 It automates complex scheduling processes using **constraint programming** and **SAT (Boolean satisfiability)** techniques to generate **conflict-free, optimized timetables**.
